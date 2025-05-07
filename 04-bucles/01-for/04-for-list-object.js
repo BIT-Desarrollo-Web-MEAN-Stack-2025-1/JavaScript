@@ -1,7 +1,8 @@
 const products = [
     { nombre: 'Mango', precio: 3 },
     { nombre: 'Mandarina', precio: 1.8 },
-    { nombre: 'Mangostino', precio: 5 }
+    { nombre: 'Mangostino', precio: 5 },
+    { nombre: 'Mora' }
 ];
 
 let total = 0;
